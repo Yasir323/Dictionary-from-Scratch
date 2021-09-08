@@ -6,7 +6,8 @@ word = argv[1]
 
 database = Dictionary()
 file_name = 'list.txt'
-file = os.path.join(os.getcwd(), file_name)
+directory = 'data'
+file = os.path.join(os.getcwd(), directory, file_name)
 
 # Build the database
 with open(file=file, mode='r') as f:

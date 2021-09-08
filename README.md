@@ -18,4 +18,7 @@ Implementation of Python Dictionary from Scratch.
 >`pip install requirements.txt`
 
 4. Run the code:
->`python -m app.py <word_to_be_searched>`
+>`python app.py <word_to_be_searched>`
+
+## Usage examples
+[!Image](data/example.png)
