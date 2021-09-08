@@ -21,4 +21,4 @@ Implementation of Python Dictionary from Scratch.
 >`python app.py <word_to_be_searched>`
 
 ## Usage examples
-[!Image](https://github.com/Yasir323/Dictionary-from-Scratch/blob/main/data/example.png)
+![alt text](https://github.com/Yasir323/Dictionary-from-Scratch/blob/main/data/example.png?raw=true)
